@@ -1,0 +1,18 @@
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar {
+    display: flex;
+    
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.logo {
+    margin-top: 25px;
+}
